@@ -43,8 +43,6 @@ const Section = ({children, title}) => {
   );
 };
 
-
-
 const App = () => {
   return (
     <SafeAreaView>

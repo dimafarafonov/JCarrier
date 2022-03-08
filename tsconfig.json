@@ -11,7 +11,7 @@
       "strict": true,
       "target": "esnext",
       "baseUrl": ".",
-    "paths": {
+      "paths": {
        "*": ["src/*"],
        "tests": ["tests/*"],
        "@components/*": ["src/components/*"],
