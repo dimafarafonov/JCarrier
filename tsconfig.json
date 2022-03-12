@@ -14,10 +14,10 @@
       "paths": {
        "*": ["src/*"],
        "tests": ["tests/*"],
-       "@components/*": ["./src/components/*"],
+       "@components": ["./src/components"],
        "@navigation/*": ["./src/navigation/*"],
-       "@react-concepts/*": ["./src/testing_react_concepts_screens/*"],
-
+       "@screens": ["./src/screens"],
+       "@react-concepts": ["./src/testing_react_concepts_screens"],
      },
     },
     "exclude": [

@@ -1,12 +1,11 @@
 import React from 'react';
-import { Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
-import { StudyStackScreens } from '@navigation/stacks/index';
+import { BottomTabRoot } from '@navigation/bottomTab';
 
 export const RootNavigation = () => {
   return (
     <NavigationContainer>
-      <StudyStackScreens />
+      <BottomTabRoot />
     </NavigationContainer>
   );
 };
