@@ -1,4 +1,4 @@
 1. Set up RN 6 +
 2. create bottomTab with 2 options show menu and home +
-3. create side sliding menu
+3. create side sliding menu 
 4. renew all react main concepts and learn something new - in progress  

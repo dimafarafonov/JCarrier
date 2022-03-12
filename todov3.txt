@@ -1,0 +1,2 @@
+1. create simple native module with kotlin (android)
+2. create simple native module iOS (swift)
