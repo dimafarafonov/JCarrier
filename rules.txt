@@ -1,0 +1,2 @@
+1. each todo is new progress
+2. working by priorities (by v* tag)

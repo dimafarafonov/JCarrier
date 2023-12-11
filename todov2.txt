@@ -1,0 +1,2 @@
+1. make light dark theme with switch option in settings locally
+2. make light or dark depending on OS settings
